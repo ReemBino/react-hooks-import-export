@@ -364,10 +364,7 @@ external packages, like `react`, that installed in our project.
 - [MDN Import Documentation][import]
 - [MDN Export Documentation][export]
 
-[import]:
-  https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/import
-[export]:
-  https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
+[import]: https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/import
+[export]: https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
 [webpack]: https://webpack.js.org/
-[es modules]:
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+[es modules]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
